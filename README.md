@@ -1,2 +1,1 @@
-# profilku
-ini adalah website profilku
+Example landing page sekolah devops cilsy
